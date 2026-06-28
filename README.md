@@ -48,19 +48,19 @@ This project presents an Excel-based financial analysis and forecasting model of
 
 ## Historical Financial Statement Analysis
 
-![Historical Financial Analysis](images/historical_analysis.png)
+![Historical Financial Analysis]([images/historical_analysis.png](https://github.com/Erico-Marak/blackstone-financial-model/blob/e96fa1a3cf8f1559b05d340d10ffbe45bea91a3b/Historical%20Financial%20Analysis.png)
 
 ---
 
 ## Forecast Model
 
-![Forecast Model](images/forecast_model.png)
+![Forecast Model]([images/forecast_model.png](https://github.com/Erico-Marak/blackstone-financial-model/blob/e96fa1a3cf8f1559b05d340d10ffbe45bea91a3b/Forecast%20Model.png)
 
 ---
 
 ## DCF Valuation
 
-![DCF Valuation](images/dcf_valuation.png)
+![DCF Valuation]([images/dcf_valuation.png](https://github.com/Erico-Marak/blackstone-financial-model/blob/e96fa1a3cf8f1559b05d340d10ffbe45bea91a3b/DCF%20Valuation.png)
 
 ---
 
