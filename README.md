@@ -44,23 +44,21 @@ This project presents an Excel-based financial analysis and forecasting model of
 
 # Workbook Screenshots
 
-> **Create a folder named `images` in your repository and place the screenshots there using the filenames shown below.**
-
 ## Historical Financial Statement Analysis
 
-![Historical Financial Analysis](images/historical_analysis.png)
+![Historical Financial Analysis](https://github.com/Erico-Marak/blackstone-financial-model/blob/main/Historical%20Financial%20Analysis.png?raw=true)
 
 ---
 
 ## Forecast Model
 
-![Forecast Model](images/forecast_model.png)
+![Forecast Model](https://github.com/Erico-Marak/blackstone-financial-model/blob/main/Forecast%20Model.png?raw=true)
 
 ---
 
 ## DCF Valuation
 
-![DCF Valuation]([images/dcf_valuation.png](https://github.com/Erico-Marak/blackstone-financial-model/blob/e96fa1a3cf8f1559b05d340d10ffbe45bea91a3b/DCF%20Valuation.png)
+![DCF Valuation](https://github.com/Erico-Marak/blackstone-financial-model/blob/main/DCF%20Valuation.png?raw=true)
 
 ---
 
@@ -109,15 +107,14 @@ Historical financial statements (2022–2024) were used as the foundation for th
 ## Repository Structure
 
 ```text
-Blackstone-Financial-Model/
+blackstone-financial-model/
 │
 ├── Financial Statement Analysis and Forecasting of Blackstone Inc..xlsx
 ├── Blackstone Annual Report 2025.pdf
-├── README.md
-└── images/
-    ├── historical_analysis.png
-    ├── forecast_model.png
-    └── dcf_valuation.png
+├── Historical Financial Analysis.png
+├── Forecast Model.png
+├── DCF Valuation.png
+└── README.md
 ```
 
 ---
@@ -136,4 +133,4 @@ National Institute of Technology Meghalaya
 
 ## Disclaimer
 
-This project was developed for educational and portfolio purposes only. Financial information was obtained from Blackstone's publicly available Annual Report 2025 (FY2024). The financial forecasts and DCF valuation are based on analytical assumptions and should not be interpreted as investment advice.
+This project was developed for educational. Financial information was obtained from Blackstone's publicly available Annual Report 2025 (FY2024). The financial forecasts and DCF valuation are based on analytical assumptions and should not be interpreted as investment advice.
